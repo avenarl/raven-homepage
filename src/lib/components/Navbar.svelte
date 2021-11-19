@@ -11,8 +11,8 @@
       <li class="item" class:active={segment === "about"}>
         <a href="/about">About</a>
       </li>
-      <li class="item" class:active={segment === "projects"}>
-        <a href="/projects">Projects</a>
+      <li class="item" class:active={segment === "project"}>
+        <a href="/project">Projects</a>
       </li>
       <li class="item" class:active={segment === "skills"}>
         <a href="/skills">Skills</a>

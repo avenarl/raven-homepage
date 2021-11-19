@@ -1,7 +1,8 @@
-  <Navbar {segment} />
-
+<Navbar {segment} />
 <main>
-  <slot></slot>
+  <div>
+    <slot />
+  </div>
   <Footer />
 </main>
 
