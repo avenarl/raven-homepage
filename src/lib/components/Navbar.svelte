@@ -1,26 +1,23 @@
 <style lang="postcss">
- .item {
-     @apply text-lg text-gray-600;
-   }
 </style>
 
-<nav class="navbar">
-  <div class="container">
-    <div class="title">
-      <a href="/" aria-label="logo">Raven</a>
+<nav class="navbar mb-2 shadow-lg bg-neutral text-neutral-content">
+  <div class="navbar-container">
+    <div class="px-2 mx-2 navbar-start">
+      <span class="text-lg font-bold"> CODERAVEN </span>
     </div>
-    <ul class="items">
-      <li class="item" class:active={segment === "about"}>
-        <a href="/about">About</a>
+    <ul class="flex">
+      <li class ="mr-6" class:active={segment === "about"}>
+        <a class="text-blue-500 hover:text-blue-800" href="/about">About</a>
       </li>
-      <li class="item" class:active={segment === "project"}>
-        <a href="/project">Projects</a>
+      <li class="mr-6" class:active={segment === "project"}>
+        <a class="text-blue-500 hover:text-blue-800" href="/project">Projects</a>
       </li>
-      <li class="item" class:active={segment === "skills"}>
-        <a href="/skills">Skills</a>
+      <li class="mr-6" class:active={segment === "skills"}>
+        <a class="text-blue-500 hover:text-blue-800" href="/skills">Skills</a>
       </li>
-      <li class="item" class:active={segment === "contact"}>
-        <a href="/contact">Contact</a>
+      <li class="mr-6" class:active={segment === "contact"}>
+        <a class="text-blue-500 hover:text-blue-800" href="/contact">Contact</a>
       </li>
     </ul>
   </div>
