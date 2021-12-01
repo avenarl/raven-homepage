@@ -1,5 +1,7 @@
-<style>
-
+<style lang="postcss">
+ .item {
+     @apply text-lg text-gray-600;
+   }
 </style>
 
 <nav class="navbar">
