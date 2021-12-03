@@ -3,7 +3,22 @@
 @tailwind utilities;
 
 @layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body{
+    height: 100%;
+  }
+  
   h1, h2, h3, h4 {
     @apply font-bold;
   }
+  
+  body {
+    overflow-x: hidden;
+  } 
 }
+

@@ -18,14 +18,14 @@ module.exports = {
       {
         'mytheme': {                          /* your theme name */
            'primary' : '#a991f7',           /* Primary color */
-           'primary-focus' : '#8462f4',     /* Primary color - focused */
+           'primary-focus' : '#434344',     /* Primary color - focused */
            'primary-content' : '#ffffff',   /* Foreground content color to use on primary color */
 
            'secondary' : '#f6d860',         /* Secondary color */
            'secondary-focus' : '#f3cc30',   /* Secondary color - focused */
            'secondary-content' : '#ffffff', /* Foreground content color to use on secondary color */
 
-           'accent' : '#37cdbe',            /* Accent color */
+           'accent' : '#8A00FC',            /* Accent color */
            'accent-focus' : '#2aa79b',      /* Accent color - focused */
            'accent-content' : '#ffffff',    /* Foreground content color to use on accent color */
 
