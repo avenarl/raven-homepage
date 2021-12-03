@@ -26,7 +26,7 @@ module.exports = {
            'secondary-content' : '#ffffff', /* Foreground content color to use on secondary color */
 
            'accent' : '#8A00FC',            /* Accent color */
-           'accent-focus' : '#2aa79b',      /* Accent color - focused */
+           'accent-focus' : '#520097',      /* Accent color - focused */
            'accent-content' : '#ffffff',    /* Foreground content color to use on accent color */
 
            'neutral' : '#3d4451',           /* Neutral color */
