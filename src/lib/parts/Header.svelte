@@ -14,13 +14,6 @@
 .header-desc {
   font-size: clamp(0.8rem, calc(2vw + 0.5rem), 1.125rem);
 }
-.header-avatar{
-  width: clamp(12rem, calc(20vw + 4rem), 16rem);
-  height: clamp(12rem, calc(20vw + 4rem), 16rem);
-  border-radius: 10rem;
-  border: 0.5rem var(--color-alt-bg) solid;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
-}
 .icons {
   margin: 1rem auto 0.5rem;
 }
