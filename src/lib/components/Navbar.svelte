@@ -7,7 +7,7 @@
 
 <nav class="navbar mb-2 shadow-md  text-primary-focus p-2 mt-0 fixed w-full z-10 top-0 bg-opacity-50 ">
     <div class="px-2 mx-24 navbar-start">
-      <a class="text-3xl text-black font-bold hover:text-accent" href="/"> avenarl </a>
+      <a class="text-3xl text-black font-bold hover:text-accent" href="/"> ravenrodrigo </a>
     </div>
     <div class="hidden px-2 mx-24 navbar-center xl:flex">
       <div class="flex items-stretch">
