@@ -20,6 +20,7 @@ div {
   <div>
     <slot />
   </div>
+  <Skills />
   <Footer />
 </main>
 
@@ -27,5 +28,6 @@ div {
   import '../app.css';
   import Navbar from "$lib/components/Navbar.svelte"
   import Footer from "$lib/components/Footer.svelte"
+  import Skills from "$lib/components/Skills.svelte"
   export let segment: string = "";
 </script>
