@@ -2,7 +2,7 @@
 .header {
  max-width: 1080px;
  grid-template-columns: 20rem 1fr;
- margin: 2rem auto;
+ margin: 5rem auto;
 }
 .header-name {
   font-size: clamp(1.25rem, calc(5vw + 1.25rem), 3rem);
@@ -15,7 +15,7 @@
   font-size: clamp(0.8rem, calc(2vw + 0.5rem), 1.125rem);
 }
 .icons {
-  margin: 1rem auto 0.5rem;
+  margin: 3rem auto 0.5rem;
 }
 .icons a {
   transition: ease-out 0.2s;
@@ -60,7 +60,7 @@
             </a>
           </li>
         </ul>
-      <button class="btn btn-accent mt-6 hover:btn-accent hover:bg-accent-focus">
+      <button class="btn btn-accent mt-8 hover:btn-accent hover:bg-accent-focus">
       <a target="_blank" href="../../static/assets/resume/Raven_Rodrigo(Resume).pdf"> Download Resume </a>
     </button> 
     </div>
