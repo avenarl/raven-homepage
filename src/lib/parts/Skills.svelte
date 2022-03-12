@@ -1,3 +1,4 @@
 <style></style>
-<h1>Skills</h1>
+<h2>Skills parts asdasdad</h2>
 <script></script>
+
