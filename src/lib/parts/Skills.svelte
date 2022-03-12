@@ -1,4 +1,4 @@
 <style></style>
-<h2>Skills parts asdasdad</h2>
+<h2>Skills parts folder</h2>
 <script></script>
 
